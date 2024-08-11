@@ -34,11 +34,15 @@ You can customize the TradingView widget by editing the 'index.js' file. Here ar
 
 # Screenshots
  
-<img width="1338" alt="Screenshot 2024-08-09 at 5 44 00 PM" src="https://github.com/user-attachments/assets/89ac260f-c3a6-4bc0-b7e9-d45d06efef50">
+<img width="1439" alt="Screenshot 2024-08-09 at 5 42 38 PM" src="https://github.com/user-attachments/assets/f83b9bc2-f26e-4596-94a9-9badd40fdad1">
 
-<img width="454" alt="Screenshot 2024-08-09 at 5 43 46 PM" src="https://github.com/user-attachments/assets/76d40a1f-ab8e-4358-a38b-6795152aee5e">
+<img width="1338" alt="Screenshot 2024-08-09 at 5 44 00 PM" src="https://github.com/user-attachments/assets/2b4d5b4c-9f7c-4aaa-a409-86e526c2bb22">
 
-<img width="1439" alt="Screenshot 2024-08-09 at 5 42 38 PM" src="https://github.com/user-attachments/assets/3680a607-99b3-4cc3-b98b-6bfb4b172b71">
+<img width="454" alt="Screenshot 2024-08-09 at 5 43 46 PM" src="https://github.com/user-attachments/assets/75bc1e54-e4c6-43f8-89c6-2516b3a8e71f">
+
+<img width="240" alt="Screenshot 2024-08-09 at 5 45 21 PM" src="https://github.com/user-attachments/assets/b8bcb45c-618f-4cc0-9f9e-95c95b029c64">
+
+
 
 # Contact
 If you have any questions or feedback, feel free to reach out.
